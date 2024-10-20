@@ -6,19 +6,19 @@ class Program
 {
     private static HttpClient _httpClient = new HttpClient();
     // Скачайте любое изображение из интернета и сохраните в локальной папке на компьютере.
-    // static async Task Main(string[] args)
-    // {
-    //     string urlImage = "https://images.prom.ua/1734007967_w600_h600_1734007967.jpg";
-    //
-    //     WebClient webClient = new WebClient();
-    //     using (Stream stream = webClient.OpenRead(urlImage))
-    //     {
-    //         using (FileStream fileStream = File.Create("/Users/ivanushachov/Desktop/image.jpg"))
-    //         {
-    //             stream.CopyTo(fileStream);
-    //         }
-    //     }
-    // }
+    static async Task Main(string[] args)
+    {
+        string urlImage = "https://images.prom.ua/1734007967_w600_h600_1734007967.jpg";
+    
+        WebClient webClient = new WebClient();
+        using (Stream stream = webClient.OpenRead(urlImage))
+        {
+            using (FileStream fileStream = File.Create("/Users/ivanushachov/Desktop/image.jpg"))
+            {
+                stream.CopyTo(fileStream);
+            }
+        }
+    }
     
     
     // dop 1
