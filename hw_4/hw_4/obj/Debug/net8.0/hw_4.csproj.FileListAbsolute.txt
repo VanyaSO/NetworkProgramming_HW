@@ -1,0 +1,15 @@
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_4/hw_4/bin/Debug/net8.0/hw_4
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_4/hw_4/bin/Debug/net8.0/hw_4.deps.json
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_4/hw_4/bin/Debug/net8.0/hw_4.runtimeconfig.json
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_4/hw_4/bin/Debug/net8.0/hw_4.dll
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_4/hw_4/bin/Debug/net8.0/hw_4.pdb
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_4/hw_4/obj/Debug/net8.0/hw_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_4/hw_4/obj/Debug/net8.0/hw_4.AssemblyInfoInputs.cache
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_4/hw_4/obj/Debug/net8.0/hw_4.AssemblyInfo.cs
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_4/hw_4/obj/Debug/net8.0/hw_4.csproj.CoreCompileInputs.cache
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_4/hw_4/obj/Debug/net8.0/hw_4.sourcelink.json
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_4/hw_4/obj/Debug/net8.0/hw_4.dll
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_4/hw_4/obj/Debug/net8.0/refint/hw_4.dll
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_4/hw_4/obj/Debug/net8.0/hw_4.pdb
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_4/hw_4/obj/Debug/net8.0/hw_4.genruntimeconfig.cache
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_4/hw_4/obj/Debug/net8.0/ref/hw_4.dll
