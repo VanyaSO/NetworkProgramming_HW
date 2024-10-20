@@ -1,0 +1,15 @@
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_5/hw_5/obj/Debug/net8.0/hw_5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_5/hw_5/obj/Debug/net8.0/hw_5.AssemblyInfoInputs.cache
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_5/hw_5/obj/Debug/net8.0/hw_5.AssemblyInfo.cs
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_5/hw_5/obj/Debug/net8.0/hw_5.csproj.CoreCompileInputs.cache
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_5/hw_5/obj/Debug/net8.0/hw_5.sourcelink.json
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_5/hw_5/bin/Debug/net8.0/hw_5
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_5/hw_5/bin/Debug/net8.0/hw_5.deps.json
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_5/hw_5/bin/Debug/net8.0/hw_5.runtimeconfig.json
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_5/hw_5/bin/Debug/net8.0/hw_5.dll
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_5/hw_5/bin/Debug/net8.0/hw_5.pdb
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_5/hw_5/obj/Debug/net8.0/hw_5.dll
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_5/hw_5/obj/Debug/net8.0/refint/hw_5.dll
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_5/hw_5/obj/Debug/net8.0/hw_5.pdb
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_5/hw_5/obj/Debug/net8.0/hw_5.genruntimeconfig.cache
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_5/hw_5/obj/Debug/net8.0/ref/hw_5.dll
