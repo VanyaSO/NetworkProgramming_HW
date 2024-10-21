@@ -1,0 +1,15 @@
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_3/hw_3_server/bin/Debug/net8.0/hw_3_server
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_3/hw_3_server/bin/Debug/net8.0/hw_3_server.deps.json
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_3/hw_3_server/bin/Debug/net8.0/hw_3_server.runtimeconfig.json
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_3/hw_3_server/bin/Debug/net8.0/hw_3_server.dll
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_3/hw_3_server/bin/Debug/net8.0/hw_3_server.pdb
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_3/hw_3_server/obj/Debug/net8.0/hw_3_server.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_3/hw_3_server/obj/Debug/net8.0/hw_3_server.AssemblyInfoInputs.cache
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_3/hw_3_server/obj/Debug/net8.0/hw_3_server.AssemblyInfo.cs
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_3/hw_3_server/obj/Debug/net8.0/hw_3_server.csproj.CoreCompileInputs.cache
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_3/hw_3_server/obj/Debug/net8.0/hw_3_server.sourcelink.json
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_3/hw_3_server/obj/Debug/net8.0/hw_3_server.dll
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_3/hw_3_server/obj/Debug/net8.0/refint/hw_3_server.dll
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_3/hw_3_server/obj/Debug/net8.0/hw_3_server.pdb
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_3/hw_3_server/obj/Debug/net8.0/hw_3_server.genruntimeconfig.cache
+/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_3/hw_3_server/obj/Debug/net8.0/ref/hw_3_server.dll
