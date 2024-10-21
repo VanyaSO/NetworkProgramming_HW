@@ -47,7 +47,7 @@ class Program
             IPEndPoint client = null;
             byte[] data = _udpClient.Receive(ref client);
             string request = Encoding.UTF8.GetString(data);
-            Console.WriteLine($"Новый запрос от {client}: {request}");
+            Log.Write($"Новый запрос от {client}: {request}");
 
             string response;
             if (!IsClientAllowed(client))
@@ -77,14 +77,14 @@ class Program
     {
         byte[] data = Encoding.UTF8.GetBytes(response);
         _udpClient.Send(data, data.Length, client);
-        Console.WriteLine($"Клиенту {client} отправлен овтет: {response}");
+        Log.Write($"Клиенту {client} отправлен ответ: {response}");
     }
 
     private static string GetPrice(string product)
     {
         if (_products.ContainsKey(product))
             return _products[product];
-        return "Product not found";
+        return "Товар не найден";
     }
 
     private static void CleanupInactiveClients(object sender, ElapsedEventArgs eda)
@@ -98,7 +98,7 @@ class Program
         foreach (var client in inactiveClients)
         {
             _clientRequests.Remove(client);
-            Console.WriteLine($"Клиент {client} был отключен принудительно");
+            Log.Write($"Клиент {client} был отключен принудительно");
         }
     }
 }
