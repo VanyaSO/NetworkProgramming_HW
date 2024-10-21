@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw_6", "hw_6\hw_6.csproj", "{D549E422-4D6B-4981-931D-6D1817E5F149}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw_6_dop1", "hw_6_dop1\hw_6_dop1.csproj", "{1FC5D68E-95D9-4552-B535-DC8573EE2139}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw_6_dop_1_server", "hw_6_dop_1_server\hw_6_dop_1_server.csproj", "{C85BA23F-D81B-42EC-B5CA-82D9BE49C8B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D549E422-4D6B-4981-931D-6D1817E5F149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D549E422-4D6B-4981-931D-6D1817E5F149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D549E422-4D6B-4981-931D-6D1817E5F149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D549E422-4D6B-4981-931D-6D1817E5F149}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FC5D68E-95D9-4552-B535-DC8573EE2139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FC5D68E-95D9-4552-B535-DC8573EE2139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FC5D68E-95D9-4552-B535-DC8573EE2139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FC5D68E-95D9-4552-B535-DC8573EE2139}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C85BA23F-D81B-42EC-B5CA-82D9BE49C8B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C85BA23F-D81B-42EC-B5CA-82D9BE49C8B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C85BA23F-D81B-42EC-B5CA-82D9BE49C8B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C85BA23F-D81B-42EC-B5CA-82D9BE49C8B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
