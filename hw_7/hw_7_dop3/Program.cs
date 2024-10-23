@@ -61,25 +61,18 @@ namespace FutureMeApp
     
         static void SendMessage()
         {
-            try
-            {
-                MailMessage post = new MailMessage();
-                post.From = new MailAddress("ushachovg324@gmail.com");
-                post.To.Add(_email);
-                post.Subject = _subject;
-                post.Body = _body;
+            MailMessage post = new MailMessage();
+            post.From = new MailAddress("ushachovg324@gmail.com");
+            post.To.Add(_email);
+            post.Subject = _subject;
+            post.Body = _body;
 
-                SmtpClient smtpClient = new SmtpClient("smtp.gmail.com", 587);
-                smtpClient.EnableSsl = true;
-                smtpClient.Credentials = new NetworkCredential("ushachovg324@gmail.com", "udph dsed shvu scjw");
-                smtpClient.Send(post);
+            SmtpClient smtpClient = new SmtpClient("smtp.gmail.com", 587);
+            smtpClient.EnableSsl = true;
+            smtpClient.Credentials = new NetworkCredential("ushachovg324@gmail.com", "udph dsed shvu scjw");
+            smtpClient.Send(post);
 
-                Console.WriteLine("Message sent successfully");
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine("Error while sending email: " + ex.Message);
-            }
+            Console.WriteLine("Message sent successfully");
         }
     }
 }
