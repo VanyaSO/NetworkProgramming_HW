@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "J7c+nC4KjIVo00zSuW8ffO8goM9y5fhw5cQQYVflgL3F7jsO4dK2AOl+Dyn0CYnqlWAw+0x6jlzsKovYvF0zlw==",
+  "success": true,
+  "projectFilePath": "/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_9/hw_9_client/hw_9_client.csproj",
+  "expectedPackageFiles": [
+    "/Users/ivanushachov/.nuget/packages/microsoft.aspnetcore.connections.abstractions/8.0.10/microsoft.aspnetcore.connections.abstractions.8.0.10.nupkg.sha512",
+    "/Users/ivanushachov/.nuget/packages/microsoft.aspnetcore.http.connections.client/8.0.10/microsoft.aspnetcore.http.connections.client.8.0.10.nupkg.sha512",
+    "/Users/ivanushachov/.nuget/packages/microsoft.aspnetcore.http.connections.common/8.0.10/microsoft.aspnetcore.http.connections.common.8.0.10.nupkg.sha512",
+    "/Users/ivanushachov/.nuget/packages/microsoft.aspnetcore.signalr.client/8.0.10/microsoft.aspnetcore.signalr.client.8.0.10.nupkg.sha512",
+    "/Users/ivanushachov/.nuget/packages/microsoft.aspnetcore.signalr.client.core/8.0.10/microsoft.aspnetcore.signalr.client.core.8.0.10.nupkg.sha512",
+    "/Users/ivanushachov/.nuget/packages/microsoft.aspnetcore.signalr.common/8.0.10/microsoft.aspnetcore.signalr.common.8.0.10.nupkg.sha512",
+    "/Users/ivanushachov/.nuget/packages/microsoft.aspnetcore.signalr.protocols.json/8.0.10/microsoft.aspnetcore.signalr.protocols.json.8.0.10.nupkg.sha512",
+    "/Users/ivanushachov/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.1/microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
+    "/Users/ivanushachov/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "/Users/ivanushachov/.nuget/packages/microsoft.extensions.features/8.0.10/microsoft.extensions.features.8.0.10.nupkg.sha512",
+    "/Users/ivanushachov/.nuget/packages/microsoft.extensions.logging/8.0.1/microsoft.extensions.logging.8.0.1.nupkg.sha512",
+    "/Users/ivanushachov/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.2/microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "/Users/ivanushachov/.nuget/packages/microsoft.extensions.options/8.0.2/microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "/Users/ivanushachov/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/ivanushachov/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512",
+    "/Users/ivanushachov/.nuget/packages/system.threading.channels/8.0.0/system.threading.channels.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
