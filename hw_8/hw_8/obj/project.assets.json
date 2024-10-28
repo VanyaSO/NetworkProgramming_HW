@@ -91,11 +91,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ivanushachov/Desktop/STEP/NetworkProgramming/hw_8/hw_8/hw_8.csproj",
+      "projectUniqueName": "/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_8/hw_8/hw_8.csproj",
       "projectName": "hw_8",
-      "projectPath": "/Users/ivanushachov/Desktop/STEP/NetworkProgramming/hw_8/hw_8/hw_8.csproj",
+      "projectPath": "/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_8/hw_8/hw_8.csproj",
       "packagesPath": "/Users/ivanushachov/.nuget/packages/",
-      "outputPath": "/Users/ivanushachov/Desktop/STEP/NetworkProgramming/hw_8/hw_8/obj/",
+      "outputPath": "/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/hw_8/hw_8/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ivanushachov/.nuget/NuGet/NuGet.Config"
