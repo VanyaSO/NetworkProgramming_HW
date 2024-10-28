@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wHJQz39C9i/6pu9bh51GT0k79c7wA7Cnsc6eNpuFxoYU4J/edDE2F6yz20P7f8iHV7r9Nt0tb7UOW5thYDnsFQ==",
+  "success": true,
+  "projectFilePath": "/Users/ivanushachov/Desktop/STEP/NetworkProgramming/hw_8/hw_8/hw_8.csproj",
+  "expectedPackageFiles": [
+    "/Users/ivanushachov/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/ivanushachov/.nuget/packages/telegram.bot/19.0.0/telegram.bot.19.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
