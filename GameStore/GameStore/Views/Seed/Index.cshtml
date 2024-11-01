@@ -1,0 +1,13 @@
+@{
+    ViewData["Title"] = "Начальные данные";
+}
+@model IEnumerable<Product>
+
+<h3 class="p-2 bg-primary text-white text-center mb-4">Начальные данные</h3>
+
+<div class="text-center">
+    <form method="post">
+        <button type="submit" asp-action="CreateProductionData"  class="btn btn-primary">Заполнить базу товарами</button>
+        <button type="submit" asp-action="ClearData" class="btn btn-primary">Очистить базу</button>
+    </form>
+</div>

@@ -1,0 +1,123 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GameStore
+build_property.RootNamespace = GameStore
+build_property.ProjectDir = /Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/GameStore/GameStore/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/GameStore/GameStore
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/GameStore/GameStore/Views/Account/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/GameStore/GameStore/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/GameStore/GameStore/Views/Cart/Completed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydC9Db21wbGV0ZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/GameStore/GameStore/Views/Cart/CreateOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydC9DcmVhdGVPcmRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/GameStore/GameStore/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/GameStore/GameStore/Views/Categories/CategoryEditor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcmllcy9DYXRlZ29yeUVkaXRvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/GameStore/GameStore/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcmllcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/GameStore/GameStore/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/GameStore/GameStore/Views/Home/InlineEditor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmxpbmVFZGl0b3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/GameStore/GameStore/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/GameStore/GameStore/Views/Home/UpdateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9VcGRhdGVQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/GameStore/GameStore/Views/Orders/EditOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXJzL0VkaXRPcmRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/GameStore/GameStore/Views/Orders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXJzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/GameStore/GameStore/Views/Seed/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VlZC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/GameStore/GameStore/Views/Shared/Components/Cart/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvQ2FydC9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/GameStore/GameStore/Views/Shared/ConfirmDeleteModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbmZpcm1EZWxldGVNb2RhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/GameStore/GameStore/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/GameStore/GameStore/Views/Shared/PageOptions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1BhZ2VPcHRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/GameStore/GameStore/Views/Shared/Pages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1BhZ2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/GameStore/GameStore/Views/Shared/_LayoutStore.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXRTdG9yZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/GameStore/GameStore/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/GameStore/GameStore/Views/Store/Categories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3RvcmUvQ2F0ZWdvcmllcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/GameStore/GameStore/Views/Store/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3RvcmUvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/GameStore/GameStore/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/GameStore/GameStore/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ivanushachov/Desktop/STEP/NetworkProgramming/NetworkProgramming_HW/GameStore/GameStore/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-cttrh535l5

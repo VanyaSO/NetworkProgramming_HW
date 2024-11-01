@@ -1,0 +1,30 @@
+@{
+    ViewData["Title"] = "Создание / Обновление категории";
+}
+@model Category
+
+<div class="container">
+    <div class="row р-2 my-2 d-flex align-items-end">
+        <div class="col-4">
+            <label asp-for="Name" class="fw-bold">Название</label>
+            <input asp-for="Name" class="form-control"/>
+        </div>
+        <div class="col">
+            <label asp-for="Description" class="fw-bold">Описание</label>
+            <input asp-for="Description" class="form-control"/>
+        </div>
+
+
+        <div class="col-3">
+            @if (Model.Id == 0)
+            {
+                <button type="submit" class="btn btn-primary">Добавить</button>
+            }
+            else
+            {
+                <button type="submit" class="btn btn-outline-primary">Сохранить</button>
+                <a asp-action="Index" class="btn btn-outline-secondary">Отмена</a>
+            }
+        </div>
+    </div>
+</div>

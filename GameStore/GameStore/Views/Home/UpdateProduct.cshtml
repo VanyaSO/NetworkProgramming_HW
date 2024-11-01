@@ -1,0 +1,51 @@
+@{
+    ViewData["Title"] = "Создание / Обновление товара";
+}
+@model Product
+
+
+<div class="p-3 text-center bg-light mb-3">
+    <h2>@(Model.Id == 0 ? "Создание товара" : $"Обновление товара \"{@Model.Name}\"")</h2>
+</div> 
+<div class="container">
+    <form asp-action="UpdateProduct" method="post">
+        <div class="form-group">
+            <label asp-for="Id"></label>
+            <input asp-for="Id" class="form-control" readonly="readonly" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Name"></label>
+            <input asp-for="Name" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Description"></label>
+            <input asp-for="Description" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Category"></label>
+            <label asp-for="Category"></label>
+            <select class="form-control" asp-for="CategoryId">
+                @if (Model.Id == 0)
+                {
+                    <option disabled selected>Выберите категорию</option>
+                }
+                @foreach (Category category in ViewBag.Categories)
+                {
+                    <option selected="@(Model.Category?.Id == category.Id)" value="@category.Id">@category.Name</option>
+                }
+            </select>
+        </div>
+        <div class="form-group">
+            <label asp-for="PurchasePrice"></label>
+            <input asp-for="PurchasePrice" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="RetailPrice"></label>
+            <input asp-for="RetailPrice" class="form-control" />
+        </div>
+        <div class="text-center mt-4">
+            <button class="btn btn-primary" type="submit">Сохранить</button>
+            <a asp-action="Index" class="btn btn-secondary">Отмена</a>
+        </div>
+    </form>
+</div>

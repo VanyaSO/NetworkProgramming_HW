@@ -1,0 +1,49 @@
+@model IEnumerable<Product>
+
+<div class="update-product-page">
+    <div class="row mb-2">
+        <div class="col-1 fw-bold">Id</div>
+        <div class="col fw-bold">Название</div>
+        <div class="col fw-bold">Категория</div>
+        <div class="col fw-bold">Закупочная цена</div>
+        <div class="col fw-bold">Розничная цена</div>
+    </div>
+
+    @{
+    int i = 0;
+    string oldValueText = "Было";
+    }
+
+    <form asp-action="UpdateAll" method="post" class="form-update">
+        @foreach (Product p in Model)
+        {
+            <div class="row form-update__row">
+                <div class="col-1 form-update__group">
+                    <div class="form-update__group_label">@p.Id</div>
+                    <input type="hidden" name="Products[@i].Id" value="@p.Id">
+                </div>
+                <div class="col form-update__group">
+                    <div class="form-update__group_label">@oldValueText: @p.Name</div> 
+                    <input class="form-control" name="Products[@i].Name" value="@p.Name">
+                </div>
+                <div class="col form-update__group">
+                    <div class="form-update__group_label">@oldValueText: @p.Category</div> 
+                    <input class="form-control" name="Products[@i].Category" value="@p.Category">
+                </div>
+                <div class="col form-update__group">
+                    <div class="form-update__group_label">@oldValueText: @p.PurchasePrice</div>
+                    <input class="form-control" name="Products[@i].PurchasePrice" value="@p.PurchasePrice">
+                </div>
+                <div class="col form-update__group">
+                    <div class="form-update__group_label">@oldValueText: @p.RetailPrice</div>
+                    <input class="form-control" name="Products[@i].RetailPrice" value="@p.RetailPrice">
+                </div>
+            </div>
+            i++;
+        }
+        <div class="form-group__custom form-group text-center m-auto">
+            <button class="btn btn-primary btn-md" type="submit">Сохранить</button>
+            <a asp-action="Index" class="btn btn-secondary btn-md">Отмена</a>
+        </div>
+    </form>
+</div>

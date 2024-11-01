@@ -1,0 +1,76 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table th, .table td {
+  border: 1px solid #dee2e6;
+  padding: 8px;
+  text-align: left;
+}
+
+.table td {
+  vertical-align: middle;
+}
+
+.table th {
+  background-color: #f8f9fa;
+}
+
+.update-product-page .form-update__row {
+  padding: 10px 0;
+  border-radius: 16px;
+  background-color: #f3f3f3;
+  border: 1px solid silver;
+}
+
+.update-product-page .form-update__row:not(:last-child) {
+  margin-bottom: 16px;
+}
+
+.update-product-page .form-update__group {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.update-product-page .form-update__group_label {
+  margin-bottom: 4px;
+}
+
+.form-group__custom {
+  display: flex;
+  width: 20%;
+  gap: 16px;
+}
+
+.form-group__custom .btn {
+  width: 48%;
+}
+
+* {
+  box-shadow: none !important;
+}
